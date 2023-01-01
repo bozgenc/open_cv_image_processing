@@ -1,6 +1,16 @@
 ## About
 
-This is a repository which contains several popular image processing algorithms such as blurring, image stitching, image reconstruction etc. Feel free to reach me if you having trouble understanding codes.
+This is a repository which contains several popular image processing algorithms such as 
+* box blurring, 
+* image stitching(descriptors: SIFT, SURF, ORB), 
+* image reconstruction with median and mean filters (both adaptive and classic algorithms),
+* bilateral filter,
+* non local means filter,
+* histogram equalization,
+* integral blur
+
+
+Feel free to reach me if you having trouble understanding codes.
 
 ## Development Environment
 
