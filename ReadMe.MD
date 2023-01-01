@@ -1,0 +1,1 @@
+This is a repository which contains several popular image processing algorithms such as blurring, image stitching, image reconstruction etc. Feel free to reach me if you have trouble tounderstand codes.
